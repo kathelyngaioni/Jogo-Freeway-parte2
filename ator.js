@@ -13,3 +13,9 @@ function movimentaAtor(){
     yAtor += 3;
   }
 }
+
+/*function voltaPosicaoInicialAtor(){
+  if(yAtor <0)
+    yAtor = 366;  
+}
+*/
