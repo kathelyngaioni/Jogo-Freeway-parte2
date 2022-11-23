@@ -1,2 +1,5 @@
-# Jogo-Freeway-parte2
-Código criado no editor online do P5 Js.
+                  index.html
+                  
+• Para fazer todos os arquivos "rodarem" eu preciso incluir os arquivos no html.
+
+•script src="sketch.js" : inclui o arquivo sketch.js
